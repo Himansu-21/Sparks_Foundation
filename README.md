@@ -21,4 +21,4 @@ To withdraw money, enter the amount in the "Withdraw" field and click on the "Wi
 To view the account balance, click on the "View Balance" button.
 
 Credits
-This app was created by Umashankar Sahoo as a part of a coding challenge.
+This app was created by Himansu Pradhan as a part of a coding challenge.
